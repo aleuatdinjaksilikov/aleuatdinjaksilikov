@@ -23,9 +23,9 @@
 
 ### ⚙️ GitHub статистика:
 
-![](https://github-readme-stats.vercel.app/api?username=alewatdinjaksilikov&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alewatdinjaksilikov&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alewatdinjaksilikov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aleuatdinjaksilikov&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aleuatdinjaksilikov&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleuatdinjaksilikov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🤝Социальные сети:
 
