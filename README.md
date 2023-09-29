@@ -9,13 +9,13 @@ I am an Android developer with over a year of experience developing mobile appli
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ Github statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=aleuatdinjaksilikov&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aleuatdinjaksilikov&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleuatdinjaksilikov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🤝Социальные сети:
+### 🤝Connect me:
 
 
   <div id="badges">
