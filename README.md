@@ -2,8 +2,8 @@
 Hi👋, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Aleuatdin Jaksilikov
 =================================================================================================================================
 
-### 👨‍💻 Обо мне :
-Я Андройд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.Мой путь к IT началься с 1-курса 2021 года. С сентября 2021 года по январь 2022 изучал Java . С января 2023 до июля 2023 изучал Андройд разработку , ещё не окончив курс я устроился Android разработчиком на Bizler Group.
+### 👨‍💻 About me :
+I am an Android developer with over a year of experience developing mobile applications using Kotlin and Java. I have knowledge of the overall mobile landscape, architecture, trends and emerging technologies. I am always open to new technologies and the latest trends in mobile application development.
 
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 
