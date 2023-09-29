@@ -9,18 +9,6 @@ I am an Android developer with over a year of experience developing mobile appli
 
 ---
 
-### 💻 Технические знания:
-
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="30" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
-</div>
-
----
-
 ### ⚙️ GitHub статистика:
 
 ![](https://github-readme-stats.vercel.app/api?username=aleuatdinjaksilikov&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
