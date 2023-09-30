@@ -28,7 +28,7 @@ I am an Android developer with over a year of experience developing mobile appli
     <a href="https://m.facebook.com/jaksilik0v?eav=AfbFLHTa0-0vG5on-8h4YgUb20V8YkPBHIlL5V-6RGdPMclTinUWbIbM9aTtNc3ozWM&paipv=0" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/145/145802.png" width="40" height="40" alt="Facebook" />
     </a>
-    <a href="https://www.instagram.com/jaksilik0v/" target="_blank">
+    <a href="https://www.instagram.com/aleuatdinjaksilikov/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="Instagram" />
     </a>
   </div>
