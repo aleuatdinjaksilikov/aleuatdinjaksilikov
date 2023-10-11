@@ -35,4 +35,4 @@ I am an Android developer with over a year of experience developing mobile appli
 
   ---
 
-  [![](https://visitcount.itsvg.in/api?id=alewatdinjaksilikov&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=aleuatdinjaksilikov&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
