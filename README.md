@@ -9,14 +9,7 @@ I am an Android developer with over a year of experience developing mobile appli
 
 ---
 
-### ⚙️ Github statistics:
-
-![](https://github-readme-stats.vercel.app/api?username=aleuatdinjaksilikov&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aleuatdinjaksilikov&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleuatdinjaksilikov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### 🤝Connect me:
-
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/jaksilikovaleuatdin-profile/" target="_blank">
@@ -24,12 +17,6 @@ I am an Android developer with over a year of experience developing mobile appli
     </a>
     <a href="https://t.me/jaksilikov_a" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
-    </a>
-    <a href="https://m.facebook.com/jaksilik0v?eav=AfbFLHTa0-0vG5on-8h4YgUb20V8YkPBHIlL5V-6RGdPMclTinUWbIbM9aTtNc3ozWM&paipv=0" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/145/145802.png" width="40" height="40" alt="Facebook" />
-    </a>
-    <a href="https://www.instagram.com/aleuatdinjaksilikov/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="Instagram" />
     </a>
   </div>
 
