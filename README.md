@@ -3,7 +3,7 @@ Hi👋, I'm Aleuatdin Jaksilikov
 =================================================================================================================================
 
 ### 👨‍💻 About me :
-I am an Android developer with over a year of experience developing mobile applications using Kotlin and Java. I have knowledge of the overall mobile landscape, architecture, trends and emerging technologies. I am always open to new technologies and the latest trends in mobile application development.
+Mobile Developer with over two years of experience building Android and cross-platform mobile applications using Kotlin and Flutter. Experienced in application architecture, mobile development best practices, and modern development tools. Passionate about learning new technologies, solving complex problems, and staying current with the latest trends in mobile app development.
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/jaksilikovaleuatdin-profile/" target="_blank">
@@ -15,5 +15,3 @@ I am an Android developer with over a year of experience developing mobile appli
   </div>
 
   ---
-
-  [![](https://visitcount.itsvg.in/api?id=aleuatdinjaksilikov&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
